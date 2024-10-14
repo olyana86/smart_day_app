@@ -1,4 +1,4 @@
-Smart Day - простое приложение для создания списков дел с разными метками, отслеживания привычек, работы в технике Помодоро.
+**Smart Day** - простое приложение для создания списков дел с разными метками, отслеживания привычек, работы в технике Помодоро.
 
 Версия 1.0. включает функционал:
 - "Мой день" - составление списка дел на день c использованием меток "Лягушка", "Приоритет", тип по "Матрице Эйзенхауэра", "Тайм-блок" (выделение дела в списке особым цветом).
@@ -9,3 +9,8 @@ Smart Day - простое приложение для создания спис
 - "Мотивация дня" - цитаты известных людей для вдохновения.
 
 Код: Olga Chernyshenko, использованы дизайн Material 3 и иконки с сайта UXWing.
+
+![smart_day_main](https://github.com/user-attachments/assets/60397acf-329d-4ece-bcea-45756264bbf5)  ![smart_day_task_form](https://github.com/user-attachments/assets/505877e0-038d-41d8-9b31-5e1579748e88)  ![smart_day_habit_form](https://github.com/user-attachments/assets/0ed3ae8f-d4e1-45af-8f3f-9fedcb4be01d)  ![smart_day_profile_stats](https://github.com/user-attachments/assets/7de2c36d-a783-4aeb-8acc-90d08caed659)
+
+
+
